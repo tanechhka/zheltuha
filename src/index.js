@@ -1,6 +1,3 @@
-const Qwerty2 = (a, b) => {
-	let r
-	let t
+import './index.css'
 
-	let c = a + b
-}
+console.log('hey')
